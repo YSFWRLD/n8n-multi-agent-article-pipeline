@@ -1,0 +1,5 @@
+* text=auto eol=lf
+
+# n8n workflow export: machine-serialized JSON. Kept in language stats, but
+# collapsed in diffs because it is one very long generated line.
+n8n-multi-agent-article-workflow.json linguist-language=JSON -diff

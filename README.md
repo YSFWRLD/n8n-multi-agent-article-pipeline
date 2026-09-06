@@ -93,3 +93,7 @@ The committed workflow is a sanitized template without BotFather or OpenAI keys.
 
 For sourced articles, add a research stage before planning and provide its
 source packet to the Planner, Writer, and Article Checker.
+
+## License
+
+MIT - see [LICENSE](LICENSE).

@@ -1,0 +1,15 @@
+# Secrets and machine-specific configuration
+.env
+.env.*
+!.env.example
+
+# n8n local data and exported credentials - never commit these
+.n8n/
+*credentials*.json
+*.credentials.json
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
